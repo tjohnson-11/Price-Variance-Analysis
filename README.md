@@ -30,7 +30,7 @@ developed a clear business strategy for this company.
 
 ## project deliverables
 the full analysis ans project reoprt are availible in:
-- price-variance-analysis.pdf
+- price-variance-project.pdf
 
 ## limitations
 limited product availibility
